@@ -1,3 +1,5 @@
+USER GUIDE
+
 1. System Overview
 
 NutriPal is an Android mobile app that estimates calorie and macronutrient values from food images using an on-device deep learning model. Users can take pictures of their food, choose portion sizes, and track daily intake through analytics and history features.
